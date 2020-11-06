@@ -1,5 +1,7 @@
 {
   "name": "myweb",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "mysql2": "^2.2.5"
+  }
 }
